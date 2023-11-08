@@ -42,6 +42,19 @@
 
 ###
 
+<h3 align="left">💻 Project</h3>
+
+###
+
+<p align="left">Engaged in developing and refining a To-Do List API and a POS API, continually updating to adhere to the best backend engineering practices.</p>
+
+###
+
+- [To-Do List API](https://github.com/iczky/todo-api)
+- [POS API](https://github.com/alvianzf/POS-API)
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
