@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hey there! I'm Fiqra Wardana.<br><br>🔭 I’m currently working as a Curriculum Coordinator at RevoU, where I collaborate with others to improve learning materials and enhance the student experience.<br><br>📚 I'm passionate about machine learning and currently exploring software engineering, particularly backend development, through practice projects to enhance my skills.<br><br>⚡ In my free time, I'm fervently pursuing a career in software engineering, focusing on mastering backend development using TypeScript and Java.</p>
+<p align="left">I'm Fiqra Wardana, an aspiring Software Engineer transitioning from a data analytics background.<br><br>🔭 I'm currently working as a Curriculum Coordinator at RevoU, enhancing learning materials for the Software Engineering program.<br><br>📚 I recently completed an intensive Digital Talent Incubator program at Purwadhika, gaining proficiency in both frontend and backend technologies.<br><br>⚡ I'm passionate about machine learning and software engineering, particularly backend development using Java and TypeScript.</p>
 
 ###
 
@@ -40,24 +40,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ###
 
-<h3 align="left">🎓 Current Learning</h3>
+<h3 align="left">🎓 Recent Learning</h3>
 
 ###
 
-<p align="left">I'm currently enrolled in the Digital Talent Incubator bootcamp by Purwadhika, a full-time offline bootcamp where I'm gaining hands-on experience in:</p>
+<p align="left">I recently completed the Digital Talent Incubator bootcamp by Purwadhika, where I gained hands-on experience in:</p>
 
 - **Frontend**: Next.js, hooks, React Query, state management.
-- **Backend**: Spring Boot, JPA, Hibernate, gRPC, Docker.
+- **Backend**: Java, Spring Boot, JPA, Hibernate, gRPC, Docker.
 - **Advanced Techniques**: Orchestration, TDD, DDD, Security.
 
-<p align="left">I'm currently working on an event management platform with strict guidelines for backend and frontend development, aiming to complete it within 1 month as final project. I believe these experiences have equipped me with the skills and knowledge to contribute effectively to your company.</p>
+<p align="left">This intensive program has equipped me with the skills to develop full-stack applications efficiently and effectively.</p>
 
 ###
 
@@ -65,10 +69,35 @@
 
 ###
 
-<p align="left">Engaged in developing and refining a To-Do List API and a POS API, continually updating to adhere to the best backend engineering practices.</p>
+<p align="left">Here are some of my recent projects:</p>
 
 - [Frontend Event Management Platform](https://github.com/EventMvp/EventMvp-client)
 - [Backend Event Management Platform](https://github.com/iczky/EventMvp-server)
+- To-Do List API (continuously updated with best practices)
+- POS API (continuously updated with best practices)
+- Smart Machine Vision for Oil Palm Fresh Fruit Bunches Sorting (Research Project)
+
+###
+
+<h3 align="left">🏆 Awards and Achievements</h3>
+
+###
+
+- Top performer in Full Stack Data Analyst program at RevoU (Score: 100/100)
+- Best Top 3 team in HackFest 2022, organized by Google Developer Students Club Indonesia
+- Awarded scholarship for Digital Talent Incubator program at Purwadhika
+
+###
+
+<h3 align="left">👨‍💼 Professional Experience</h3>
+
+###
+
+<p align="left"><strong>RevoU - Curriculum Coordinator Software Engineering (May 2023 - Present)</strong><br>
+- Enhance curriculum materials in collaboration with stakeholders<br>
+- Manage curriculum development process<br>
+- Coordinate with cross-functional teams to incorporate feedback<br>
+- Optimize student learning outcomes</p>
 
 ###
 
