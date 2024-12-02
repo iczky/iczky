@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Fiqra Wardana, an aspiring Software Engineer transitioning from a data analytics background.<br><br>🔭 I'm currently working as a Curriculum Coordinator at RevoU, enhancing learning materials for the Software Engineering program.<br><br>📚 I recently completed an intensive Digital Talent Incubator program at Purwadhika, gaining proficiency in both frontend and backend technologies.<br><br>⚡ I'm passionate about machine learning and software engineering, particularly backend development using Java and TypeScript.</p>
+<p align="left">I'm Fiqra Wardana, an aspiring Full Stack Engineer transitioning from a data analytics background.<br><br>🔭 Currently working as a Curriculum Coordinator at RevoU, enhancing learning materials for Software Engineering.<br><br>📚 Completed an intensive Digital Talent Incubator program at Purwadhika, gaining proficiency in frontend and backend technologies.<br><br>⚡ Passionate about machine learning, software engineering, and backend development using Java and TypeScript.</p>
 
 ###
 
@@ -55,13 +55,12 @@
 
 ###
 
-<p align="left">I recently completed the Digital Talent Incubator bootcamp by Purwadhika, where I gained hands-on experience in:</p>
+<p align="left">Completed the Digital Talent Incubator bootcamp by Purwadhika, gaining hands-on experience in:</p>
 
-- **Frontend**: Next.js, hooks, React Query, state management.
-- **Backend**: Java, Spring Boot, JPA, Hibernate, gRPC, Docker.
-- **Advanced Techniques**: Orchestration, TDD, DDD, Security.
-
-<p align="left">This intensive program has equipped me with the skills to develop full-stack applications efficiently and effectively.</p>
+- **Frontend**: React.js, Next.js, Tailwind CSS, React Query
+- **Backend**: Java Spring Boot, PostgreSQL, Docker, gRPC
+- **Data Analysis**: Python, SQL, Data Visualization
+- **Advanced Techniques**: Microservices, Security, CI/CD
 
 ###
 
@@ -69,13 +68,15 @@
 
 ###
 
-<p align="left">Here are some of my recent projects:</p>
+- **Grocery Store App**
+  - Full-stack application with geolocation and payment integration
+  - Technologies: React.js, Java Spring Boot, Docker, PostGIS
+  - [Quick Basket Repository](https://github.com/quick-basket)
 
-- [Frontend Event Management Platform](https://github.com/EventMvp/EventMvp-client)
-- [Backend Event Management Platform](https://github.com/iczky/EventMvp-server)
-- To-Do List API (continuously updated with best practices)
-- POS API (continuously updated with best practices)
-- Smart Machine Vision for Oil Palm Fresh Fruit Bunches Sorting (Research Project)
+- **Smart Machine Vision Research**
+  - Object detection for oil palm fruit sorting
+  - Technologies: Python, YOLO, TensorFlow
+  - Improved palm oil production efficiency
 
 ###
 
@@ -83,9 +84,9 @@
 
 ###
 
-- Top performer in Full Stack Data Analyst program at RevoU (Score: 100/100)
-- Best Top 3 team in HackFest 2022, organized by Google Developer Students Club Indonesia
-- Awarded scholarship for Digital Talent Incubator program at Purwadhika
+- Top performer in Full Stack Data Analyst program (Score: 100/100)
+- Top 3 team in Google Developer Students Club HackFest 2022
+- Scholarship for Purwadhika Digital Talent Incubator
 
 ###
 
@@ -93,11 +94,11 @@
 
 ###
 
-<p align="left"><strong>RevoU - Curriculum Coordinator Software Engineering (May 2023 - Present)</strong><br>
-- Enhance curriculum materials in collaboration with stakeholders<br>
-- Manage curriculum development process<br>
-- Coordinate with cross-functional teams to incorporate feedback<br>
-- Optimize student learning outcomes</p>
+**RevoU - Curriculum Coordinator (May 2023 - Sept 2024)**
+- Improved curriculum modules by 30%
+- Developed AI-powered grading system
+- Reduced grading time by 99%
+- Managed learning outcomes for 60+ students
 
 ###
 
